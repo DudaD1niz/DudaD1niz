@@ -1,7 +1,7 @@
 ## Oi!! Me chamo Maria Eduarda
 - 🔭 Atualmente sou estudante de programação no primeiro semestre de : Ciência da Computação 
 - 🌱 Liguagem mais utilizada : Python
-- ⚡ pronomes : ela/dela
+- ⚡ Pronomes : ela/dela
 
 # Meios de Contato
 ### • [LinkedIn](https://www.linkedin.com/in/maria-eduarda-diniz-61b14a365/) <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
