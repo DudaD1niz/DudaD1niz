@@ -12,7 +12,6 @@
 
 ## • [Email](mailto:dudacrefite@gmail.com) <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" />
 
-## • Discord: **m3d1niz** <img height="30" width="30" src="https://img.icons8.com/color/48/000000/discord-logo.png" />
 
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DudaD1niz&theme=radical)
